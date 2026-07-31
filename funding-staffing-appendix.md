@@ -202,6 +202,70 @@ Spend isn't flat across the year — several major costs hit as lump sums tied t
 
 ---
 
+## Ongoing Operating Cost (Post-Launch, Month 13+)
+
+The $3.18M request covers build and pilot only. Once the tool is live, TechNovation carries an ongoing cost to operate it — this wasn't part of the original ask and is worth presenting separately so the panel sees the full financial picture, not just the build cost.
+
+### Ongoing Vendor Costs
+
+| Item | Monthly | Basis |
+|---|---|---|
+| OpenEvidence ongoing license & support | $14,200 | ~20%/year maintenance rate applied to the $850,000 licensing fee |
+| Azure for Healthcare hosting | $12,000 | Continuation of pilot-phase hosting rate; scales with provider volume over time |
+| Clearwater ongoing compliance monitoring | $2,500 | Lighter annual reassessment, not a full initial risk analysis |
+| **Vendor subtotal** | **$28,700** | |
+
+### Ongoing Staffing
+
+| Role | Monthly | Basis |
+|---|---|---|
+| Dedicated support/maintenance engineer (1 FTE) | $15,570 | $90/hr × 173 hrs — ongoing bug fixes, new-client integration support |
+| Core leadership, reduced allocation | $15,000 | Christopher, Margie, and Ashley shift to part-time oversight once the build is complete |
+| Dane (Sales/BD), full allocation | $15,570 | This role does not shrink — new-client acquisition is the focus of the expansion phase |
+| **Staffing subtotal** | **$46,140** | |
+
+### Total Ongoing Operating Cost
+
+| Category | Monthly | Annual |
+|---|---|---|
+| Vendor costs | $28,700 | $344,400 |
+| Staffing | $46,140 | $553,680 |
+| **Total** | **$74,840** | **$898,080** |
+
+**Framing note:** This is a directional estimate, not sourced with the same rigor as the build-phase budget (no signed ongoing-support contract yet). It's reasonable to present as "approximately $75K per month" rather than to the dollar, and to note that hosting and support costs may need to scale further if provider adoption grows faster than modeled below.
+
+---
+
+## Revenue Ramp & Profitability
+
+**Existing client base:** TechNovation's current hospital system relationships represent approximately **4,800 provider seats** — the pool this adoption ramp draws from, primarily through upsell into relationships we already have rather than new-client acquisition.
+
+Accounting for ongoing operating cost, this model reaches sustained profitability by **month 21**, with the crossover achieved almost entirely through existing-base adoption — new-client revenue becomes upside beyond that point, not a requirement to get there.
+
+| Milestone | Providers | % of Existing Base | Monthly Revenue |
+|---|---|---|---|
+| Month 12 (pilot complete) | ~960 | ~20% | $144,000 |
+| Month 18 (existing base scaling) | ~3,120 | ~65% | $468,000 |
+| Month 21 (profitability crossover) | ~4,250 | ~88% | ~$637,500 |
+| Month 23 (existing base saturated + early new clients) | ~5,000 | 100% + ~200 new-client | $750,000 |
+| Month 24 (continued new-client growth) | ~5,200 | 100% + ~400 new-client | $780,000 |
+
+Note: at the point profitability is reached (month 21), adoption is still under the ~4,800-seat existing base — meaning the crossover doesn't depend on winning a single new client. New-client revenue only enters the model after month 21, once the existing base approaches full adoption, and functions as upside rather than a load-bearing assumption.
+
+### Cumulative Profitability Check
+
+| Month | Cumulative Revenue | Cumulative Cost (build + ongoing) | Status |
+|---|---|---|---|
+| 18 | $2,502,000 | $3,633,374 | Not yet profitable |
+| 20 | $3,607,200 | $3,783,054 | Not yet profitable |
+| 21 | $4,244,400 | $3,857,894 | **Profitable — revenue overtakes cost** |
+
+**Panel-ready framing:** "Profitability by month 21 doesn't require a single new client to sign — it's fully achievable through upsell into the hospital systems we already serve. New-client wins after that point only accelerate things further."
+
+**Caveat worth stating directly if asked:** This model still assumes a fairly aggressive pace of adoption *within* the existing base (from ~20% at month 12 to ~88% at month 21). That's the assumption most worth stress-testing now — not new-client acquisition, since the model no longer depends on it to reach profitability.
+
+---
+
 ## Staffing Plan
 
 | Function | Staffing Source | Rationale |
