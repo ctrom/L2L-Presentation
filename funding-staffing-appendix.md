@@ -138,7 +138,7 @@ Naming real, current market players grounds the pricing and de-risks the "build 
 | Data Infrastructure & Compliance | Azure for Healthcare + Clearwater | $498,420 |
 | Core Leadership Team (12 months) | Internal | $607,230 |
 | Pilot Support Contingency (~8%) | — | $236,000 |
-| **Total Funding Request** | | **~$3,184,330 (~$3.18M)** |
+| **Total Funding Request** | | **\~$3,184,330 (\~$3.18M)** |
 
 **Note:** This is a reduction of ~$620K from the original $3.8M placeholder ask, driven by (1) separating integration/compliance/AI-specialist labor out of the "core team" bucket into their own line items, (2) grounding every labor cost in an hourly rate × realistic duration, and (3) anchoring non-labor costs to named, real-market vendors rather than round-number placeholders.
 
