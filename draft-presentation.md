@@ -16,7 +16,7 @@
 
 Total time budget: 15 minutes, with buffer built into each section for leadership Q&A interruptions.
 
-**The Ask:** $3.18M in partial funding, an Executive Champion, and 18–24 months to break-even.
+**The Ask:** $3.18M in partial funding, an Executive Champion, and sustained profitability by month 21.
 
 ---
 
@@ -115,30 +115,32 @@ We're requesting **$3.18 million** to fund this project through completion and p
 
 "That totals $3.18 million — a request scaled to what this project actually needs, and one where the panel can trace every dollar back to a named partner or a specific role."
 
-**Revenue Model (~1.5 minutes)**
+**Revenue Model (~2 minutes)**
 
 "Now, how this pays for itself. Our pricing model is straightforward: $150 per provider, per month — simple enough that any hospital administrator can do the math on what this costs them, and simple enough for us to project with confidence.
 
-Our existing client base gives us roughly 3,000 provider seats across our current hospital systems. We're not assuming full adoption on day one — we're modeling a realistic ramp:"
+Our current hospital system relationships represent roughly forty-eight hundred provider seats. That's the pool we're drawing this ramp from. This model assumes we grow adoption steadily within that base — not a bet on winning new clients quickly, but on giving the clients who already trust us a reason to expand how many of their providers use it:"
 
-- By month 12 (pilot clients live): ~450 providers onboarded — roughly $67,500/month in recurring revenue
-- By month 18 (existing base scaling + first new clients): ~1,400 providers — $210,000/month
-- By month 24 (broader adoption + growing new-client pipeline): ~2,200 providers — $330,000/month
+- By month 12 (pilot complete): ~960 providers onboarded — roughly $144,000/month in recurring revenue
+- By month 18 (existing base scaling): ~3,120 providers — $468,000/month
+- By month 21: ~4,250 providers — about $637,500/month
 
-"Because every cost in this budget is grounded in real vendor pricing and realistic staffing hours, this revenue ramp gets us to break-even comfortably inside our eighteen-to-twenty-four-month target, with healthy margin for error."
+"Here's the part I want to highlight. I also want to walk you through a cost the original version of this budget didn't include: what it costs to run this after launch, not just build it. Once the tool is live, we estimate roughly $75,000 a month in ongoing cost — vendor fees for OpenEvidence, Azure, and Clearwater, plus a smaller support team than we run during the build.
+
+When we weigh that ongoing cost against this adoption curve, cumulative revenue overtakes cumulative cost — build, pilot, and ongoing operations combined — during month twenty-one. And here's the important part: at that point, we're still under our existing base of forty-eight hundred providers. We don't need to have signed a single new client to get there. New-client revenue after that point is upside, not something this plan depends on."
 
 **Closing the Section (~30 seconds)**
 
-"I want to be direct about something: these projections assume steady execution, not a best-case scenario. We built this model to be defensible, not impressive — because the worst outcome here isn't a modest return, it's overpromising and underdelivering in front of the very clients we're trying to win back."
+"I want to be direct about something: this still assumes a fairly fast pace of adoption within our existing base — from about twenty percent of providers using it at month twelve to nearly ninety percent by month twenty-one. That's the assumption most worth stress-testing here, not new-client acquisition, since this plan doesn't depend on winning new clients to reach profitability. I'd rather tell you that now than have it come up as a surprise later — because the worst outcome here isn't a modest return, it's overpromising and underdelivering in front of the very clients we're trying to win back."
 
 **Transition (~15 seconds)**
 
 "With the financial case laid out, Dane is going to close by covering our team, the risks we're watching for, and what we're asking of this leadership team specifically."
 
 **Delivery notes:**
-- "Defensible, not impressive" is a deliberate hedge — pre-empts a "these numbers seem too good" pushback before it's asked.
-- Leading with "every dollar traces to a named vendor or role" pre-empts the most likely panel pushback on a funding ask: "how did you get these numbers?"
-- If asked for the exact break-even month, Ashley should be ready to say "inside the 20–22 month range, based on this revenue ramp and budget" rather than an artificially precise single number.
+- Leading with "every dollar traces to a named vendor or role" pre-empts the most likely panel pushback on the build-cost ask: "how did you get these numbers?"
+- The strongest line in this section is "we don't need to have signed a single new client to get there" — it directly answers the panel's likely instinct to distrust new-client-driven revenue projections, since this plan isn't one.
+- If pressed for a range instead of a single month, Ashley should say "profitability lands right around month 21 under this adoption curve; a slower internal rollout pushes it out, a faster one pulls it in" — that's honest without overclaiming false precision.
 
 ---
 
@@ -170,7 +172,7 @@ And liability — if an AI recommendation is ever connected to a bad outcome —
 
 **Closing Ask (~30 seconds)**
 
-"So here's what we're asking today. Three point one eight million dollars, invested over twelve months, working with named partners already proven in this space — OpenEvidence for the technology, Clearwater for compliance — to build and pilot a tool that's proven with our own clients before we ever ask a new one to take a chance on us. A committed Executive Champion to help us move faster and manage risk along the way. And eighteen to twenty-four months to prove that TechNovation isn't just protecting its market position — it's setting the pace again.
+"So here's what we're asking today. Three point one eight million dollars, invested over twelve months, working with named partners already proven in this space — OpenEvidence for the technology, Clearwater for compliance — to build and pilot a tool that's proven with our own clients before we ever ask a new one to take a chance on us. A committed Executive Champion to help us move faster and manage risk along the way. And a clear path to sustained profitability by month twenty-one, driven by our existing relationships, not a bet on new business — to prove that TechNovation isn't just protecting its market position, it's setting the pace again.
 
 We're not asking you to bet on a hypothesis. We're asking you to fund the fastest, lowest-risk path back to leadership, with partners already proven in this exact market. Thank you — we're glad to take your questions."
 
@@ -184,6 +186,7 @@ We're not asking you to bet on a hypothesis. We're asking you to fund the fastes
 ## Next Steps
 
 - Prepare for Q&A: anticipate tough questions the panel is likely to ask — especially "how firm are the OpenEvidence/Clearwater cost estimates?" since those are internal estimates informed by market scale, not published vendor pricing.
+- Rehearse the internal adoption pace specifically — reaching ~88% of the existing base by month 21 is the most aggressive number in the model and the most likely thing a sharp panelist will press on.
 - Rehearse transitions as a full run-through to confirm total timing stays within the 15-minute limit, with buffer for interruptions.
 - Confirm minimal visual aids per instructor guidance — at most one simple visual (e.g., budget/timeline) to support, not replace, the verbal delivery.
 - Revisit funding figures and revenue assumptions if the team wants to adjust the numbers before final rehearsal.
