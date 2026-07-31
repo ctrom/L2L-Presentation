@@ -1,5 +1,5 @@
 # TechNovation Pitch — Speaking Outline
-15 min total | Ask: $3.18M, Executive Champion, 18–24mo to break-even
+15 min total | Ask: $3.18M, Executive Champion, profitable by month 21
 
 ---
 
@@ -57,15 +57,17 @@
 - $236K — pilot contingency (~8%)
 - **Total: $3.18M**
 
-**Revenue Model (1.5 min)**
-- $150/provider/month, ~3,000 provider seats in existing base
-- Mo 12: ~450 providers → $67.5K/mo
-- Mo 18: ~1,400 providers → $210K/mo
-- Mo 24: ~2,200 providers → $330K/mo
-- Break-even: 20–22mo range, comfortably inside the 18–24mo target
+**Revenue Model (2 min)**
+- $150/provider/month, ~4,800 provider seats in existing base
+- Mo 12: ~960 providers → $144K/mo
+- Mo 18: ~3,120 providers → $468K/mo
+- Mo 21: ~4,250 providers → ~$637.5K/mo — still under existing base, no new clients required
+- Ongoing operating cost post-launch: ~$75K/mo (vendors + reduced support team)
+- Profitability: cumulative revenue overtakes cumulative cost (build + ongoing) during month 21
+- New clients (Mo 23–24): existing base saturates (~5,000–5,200 providers) — upside, not required for profitability
 
 **Close (30s)**
-- Defensible, not impressive — conservative model, fully traceable ask
+- Own the internal adoption pace directly — ~20% to ~88% of existing base in 21 months is the assumption to stress-test, not new-client wins
 
 **Transition:** → Dane, team/risk/close
 
@@ -89,7 +91,7 @@
 - Role: clinician credibility, peer access to client leadership, internal advocate at mo 12–15 if ramp is slow
 
 **Closing Ask (30s)**
-- $3.18M / 12 months / named proven partners (OpenEvidence, Clearwater) / Executive Champion / 18–24mo to prove pace-setting, not just position-protecting
+- $3.18M / 12 months / named proven partners (OpenEvidence, Clearwater) / Executive Champion / profitable by month 21, driven by existing relationships not new business
 - End: "fund the fastest, lowest-risk path back to leadership"
 
 ---
@@ -98,5 +100,6 @@
 - Match transition phrasing across all 4 speakers
 - Name risks before panel asks them (nimbleness)
 - Be ready for "how firm are the OpenEvidence/Clearwater numbers?" — internal estimates informed by market scale, not published vendor pricing
+- Be ready for "how firm is the internal adoption pace?" — reaching ~88% of the existing base by month 21 is the most aggressive figure in the model, though it needs no new clients
 - 1 visual max (budget/timeline)
 - Build in buffer per section for Q&A interruptions
