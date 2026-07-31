@@ -13,7 +13,7 @@ Naming real, current market players grounds the pricing and de-risks the "build 
 | **Clearwater** | HIPAA compliance & security risk consulting | One of the most established healthcare-specific compliance firms in the country — two decades focused exclusively on HIPAA Security Rule risk analysis, OCR audit readiness, and BAA review. Selected over generalist IT consultancies because healthcare compliance work is their sole specialty, not a practice area inside a broader firm. |
 | **Microsoft Azure for Healthcare** | HIPAA-aligned cloud data infrastructure | Offers a signed BAA, healthcare-specific compliance certifications, and native integration tooling for EHR-adjacent data pipelines — reduces the infrastructure build to configuration rather than ground-up architecture. Considered against AWS HealthLake; Azure was selected on the assumption that TechNovation's existing platform already runs on Microsoft infrastructure, which avoids a parallel-cloud integration cost. |
 
-**Vendor selection logic, in one line:** license the clinical AI (OpenEvidence) rather than build it, buy compliance expertise (Clearwater) rather than develop it internally for a first project, and extend the existing cloud relationship (Azure) rather than stand up a second one. Every "buy" decision below is a deliberate trade of a fixed/contractor cost now for a slower, riskier internal build later.
+**Vendor selection logic, in one line:** license the clinical AI (OpenEvidence) rather than build it, buy compliance expertise (Clearwater) rather than develop it internally, and extend the existing cloud relationship (Azure) rather than stand up a second one. Every "buy" decision below is a deliberate trade of a fixed/contractor cost now for a slower, riskier internal build later.
 
 **Framing note:** Enterprise AI/compliance vendor contracts are rarely publicly priced — the dollar figures below are TechNovation's internal estimate, informed by the observed scale of comparable 2026 enterprise health-system AI deals, not published vendor rate cards. Confirm actual figures with each vendor during procurement before treating them as final.
 
@@ -110,7 +110,7 @@ Naming real, current market players grounds the pricing and de-risks the "build 
 | **Amount** | $607,230 |
 | **Labor** | Christopher $186,840 + Margie $186,840 + Ashley $93,420 + Dane $140,130 |
 | **Covers** | Fully loaded compensation for the four core leadership roles across build and pilot phases |
-| **Why this approach** | Narrowed from the original estimate — integration engineers, AI specialists, and compliance staff are now costed separately in their own buckets rather than folded into "team" as one lump sum |
+| **Why this approach** | Scoped to leadership only — integration engineers, AI specialists, and compliance staff are costed separately in their own buckets rather than folded into "team" as one lump sum |
 | **Note** | All four roles are existing staff, reassigned/dedicated to this project — no net-new leadership hires |
 | **Panel-ready framing** | "This reflects a lean core team, deliberately not overbuilt ahead of revenue." |
 
@@ -138,9 +138,67 @@ Naming real, current market players grounds the pricing and de-risks the "build 
 | Data Infrastructure & Compliance | Azure for Healthcare + Clearwater | $498,420 |
 | Core Leadership Team (12 months) | Internal | $607,230 |
 | Pilot Support Contingency (~8%) | — | $236,000 |
-| **Total Funding Request** | | **\~$3,184,330 (\~$3.18M)** |
+| **Total Funding Request** | | **~$3,184,330 (~$3.18M)** |
 
-**Note:** This is a reduction of ~$620K from the original $3.8M placeholder ask, driven by (1) separating integration/compliance/AI-specialist labor out of the "core team" bucket into their own line items, (2) grounding every labor cost in an hourly rate × realistic duration, and (3) anchoring non-labor costs to named, real-market vendors rather than round-number placeholders.
+**Note:** Every figure in this budget is grounded in (1) a named vendor's role and cost, (2) an hourly rate applied to a specific role and realistic duration, or (3) a defined percentage-based contingency — nothing here is a round-number placeholder.
+
+---
+
+## Monthly Spend Schedule
+
+Spend isn't flat across the year — several major costs hit as lump sums tied to specific triggers (contract signing, go-live, compliance sign-off), while labor and hosting costs accrue steadily. Laying this out month-by-month lets the panel see exactly when cash is needed, not just how much in total.
+
+### Major One-Time Payments
+
+| Item | Amount | Month | Trigger |
+|---|---|---|---|
+| OpenEvidence licensing fee — initial tranche | $500,000 | Month 1 | Contract signing |
+| Azure for Healthcare infrastructure setup | $150,000 | Month 1 | Environment provisioning |
+| Integration tooling/environment setup | $100,000 | Month 1 | Project kickoff |
+| Clearwater — initial HIPAA risk assessment | $25,000 | Month 1 | Engagement start |
+| OpenEvidence licensing fee — go-live tranche | $350,000 | Month 6 | Demo/go-live milestone |
+| Clearwater — pre-pilot compliance sign-off | $20,000 | Month 6 | Pilot launch readiness review |
+| **Total one-time payments** | **$1,145,000** | | |
+
+### Steady Monthly Burn
+
+| Item | Monthly Rate | Active Months | Total |
+|---|---|---|---|
+| OpenEvidence implementation specialists | $51,900/mo | 1–6 | $311,400 |
+| Existing integration engineers (build, 3 FTE) | $46,710/mo | 1–6 | $280,260 |
+| Contract integration engineers (surge) | $51,900/mo | 3–6 | $207,600 |
+| Existing data/compliance engineer | $15,570/mo | 1–6 | $93,420 |
+| Azure hosting (recurring) | $10,000/mo | 1–12 | $120,000 |
+| Existing integration engineer (pilot taper) | $15,570/mo | 7–12 | $93,420 |
+| Clinical validation study costs | $15,000/mo | 7–12 | $90,000 |
+| Core leadership team | ~$50,603/mo | 1–12 | $607,230 |
+| Pilot support contingency (drawn as needed) | ~$39,333/mo avg | 7–12 | $236,000 |
+| **Total steady burn** | | | **$2,039,330** |
+
+### Month-by-Month Total
+
+| Month | One-Time | Recurring | Monthly Total | Cumulative |
+|---|---|---|---|---|
+| 1 | $775,000 | $174,783 | $949,783 | $949,783 |
+| 2 | — | $174,783 | $174,783 | $1,124,566 |
+| 3 | — | $226,683 | $226,683 | $1,351,249 |
+| 4 | — | $226,683 | $226,683 | $1,577,932 |
+| 5 | — | $226,683 | $226,683 | $1,804,615 |
+| 6 | $370,000 | $226,683 | $596,683 | $2,401,298 |
+| 7 | — | $130,506 | $130,506 | $2,531,804 |
+| 8 | — | $130,506 | $130,506 | $2,662,310 |
+| 9 | — | $130,506 | $130,506 | $2,792,816 |
+| 10 | — | $130,506 | $130,506 | $2,923,322 |
+| 11 | — | $130,506 | $130,506 | $3,053,828 |
+| 12 | — | $130,506 | $130,506 | $3,184,334 |
+
+*Figures rounded to the nearest dollar; cumulative total may differ from the $3,184,330 bucket total by a few dollars due to rounding across monthly rates.*
+
+**What this shows:**
+- **Month 1 is the heaviest single month (~$950K)** — this is when the OpenEvidence licensing signing fee, Azure setup, tooling, and Clearwater's initial engagement all land at once. Worth flagging proactively so it doesn't look like an error or a surprise if a panelist checks the math.
+- **Month 6 is the second spike (~$597K)** — the OpenEvidence go-live tranche and Clearwater's pre-pilot sign-off both hit as the build phase completes and the pilot begins.
+- **Months 7–12 settle into a flat, predictable ~$130K/month** — build-phase vendor and surge costs have rolled off, leaving core team, hosting, pilot-taper engineering, clinical validation, and contingency as the only ongoing spend.
+- **Panel-ready framing:** "Roughly a third of this budget is committed in month one and month six — at contract signing and at go-live. The rest is steady, predictable monthly spend once the pilot is underway."
 
 ---
 
@@ -151,7 +209,7 @@ Naming real, current market players grounds the pricing and de-risks the "build 
 | **Core leadership** (Christopher, Margie, Ashley, Dane) | Existing staff, reassigned/dedicated to this project | Already know TechNovation's platform, clients, and internal processes — fastest, lowest-risk choice for leadership roles |
 | **AI model customization** | OpenEvidence implementation specialists (licensing partner's team) | Vendor's own implementation team reduces ramp-up time and avoids a costly in-house learning curve on a technology we're licensing, not building |
 | **Integration engineering** | Existing platform engineers (build + tapered pilot support) + 2 independent contract engineers for surge capacity | Existing engineers know the codebase; contractors add short-term capacity without permanent headcount commitment |
-| **Data infrastructure & compliance** | Existing IT staff (Azure configuration) + Clearwater (HIPAA risk analysis, BAA review, audit readiness) | Clearwater's sole focus is healthcare compliance — specialized regulatory expertise worth buying rather than building in-house for a first project |
+| **Data infrastructure & compliance** | Existing IT staff (Azure configuration) + Clearwater (HIPAA risk analysis, BAA review, audit readiness) | Clearwater's sole focus is healthcare compliance — specialized regulatory expertise worth buying rather than building in-house |
 | **Clinical validation (pilot)** | Pilot clients' own clinicians, coordinated by Margie | Reinforces co-design narrative and directly supports the adoption-resistance mitigation |
 
 **Key talking point if pressed:** Every dollar in this budget traces to either a named vendor active in this exact market today (OpenEvidence, Clearwater, Azure for Healthcare) or an hourly rate applied to a specific role and duration — nothing here is a placeholder. This is a hybrid model: existing staff carry roles where institutional knowledge is the advantage, and named specialist vendors are brought in only where outside expertise is genuinely faster or lower-risk to buy than to build in-house.
